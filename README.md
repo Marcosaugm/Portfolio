@@ -9,5 +9,5 @@ Este é o repositório do meu portfólio de desenvolvimento front-end. Ainda est
 
 ## Redes Sociais
 
-- Linkedin(https://www.linkedin.com/in/marcos-mesquita-17a037283/)
-- Github(https://github.com/Marcosaugm)
+- Linkedin (https://www.linkedin.com/in/marcos-mesquita-17a037283/)
+- Github (https://github.com/Marcosaugm)
