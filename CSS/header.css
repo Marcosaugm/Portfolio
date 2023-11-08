@@ -1,0 +1,51 @@
+.cabecalho {
+  background-color: #000;
+  color: #fff;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  padding: 30px 0 ;
+  /* position: fixed; */
+}
+
+.nome {
+  font-size: 24px;
+  font-weight: 900;
+
+  text-transform: uppercase;
+}
+
+.nav-link {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+
+  text-decoration: none;
+
+  color: #fff;
+
+  position: relative;
+
+  margin: 30px;
+  padding: 25px 10px;
+}
+
+.nav-link::after {
+  content: "";
+
+  position: absolute;
+  left: 0;
+  bottom: 8px;
+
+  height: 3px;
+  width: 0;
+
+  transition: .3s;
+
+  background-color: #ffbd39;
+}
+
+.nav-link:hover:after {
+  width: 100%;
+}

@@ -1,0 +1,46 @@
+.p-hello {
+  font-size: 20px;
+
+  text-transform: uppercase;
+}
+
+.titulo {
+  font-size: 60px;
+}
+
+.titulo-destaque {
+  color: #ffbd39;
+}
+
+.titulo-cargo {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.botao {
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 40px;
+  padding: 12px 15px;
+}
+
+.botao-linkedin {
+  background-color: blue;
+  color: #000;
+}
+
+.botao-github {
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.home {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.descricao {
+  margin-right: 100px;
+}
